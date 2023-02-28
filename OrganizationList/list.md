@@ -270,7 +270,7 @@ compilers, machine learning, programming languages, virtual machines, Modelling
 
 ## 23. Pitivi ( https://www.pitivi.org/ )
 
-![Screenshot_20230228_094308](https://user-images.githubusercontent.com/113504774/221775106-fb3ff912-3e45-4b39-8d34-fc574f5c48dc.png)
+![Screenshot_20230228_094224](https://user-images.githubusercontent.com/113504774/221778973-7321ee8b-26b0-4c40-a12e-a77de7661a58.png)
 
 ### Technologies Used
 c, python, gtk, gstreamer
