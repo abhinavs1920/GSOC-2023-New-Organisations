@@ -231,3 +231,136 @@ gradle, kotlin, jvm, Parsers & Compilers, Multiplatform
 compilers, programming languages, software development, libraries, Programming & Build Tools
 
 &nbsp;
+
+## 20. KubeVirt( https://kubevirt.io )
+
+![Screenshot_20230228_093502](https://user-images.githubusercontent.com/113504774/221773126-2dee2f47-cf90-435e-9760-45e05e5118b1.png)
+
+### Technologies Used
+golang, grpc
+
+### Topics
+virtualization, containers, kubernetes
+
+&nbsp;
+
+## 21. Mantis ( https://netflix.github.io/mantis/ )
+
+![Screenshot_20230228_093707](https://user-images.githubusercontent.com/113504774/221773785-9962ba7f-5c3d-4008-ab23-2b3035e5394d.png)
+
+### Technologies Used
+java, Rxjava, Akka, Netty
+
+### Topics
+cloud, distributed systems, Operational Analytics
+
+&nbsp;
+
+## 22. Pharo Consortium( https://pharo.org/ )
+
+![Screenshot_20230228_094132](https://user-images.githubusercontent.com/113504774/221774369-2fe9fa85-be3a-47ed-9a42-1a4b24087645.png)
+
+### Technologies Used
+git, gis, roassal, pharo, SUnit
+
+### Topics
+compilers, machine learning, programming languages, virtual machines, Modelling
+
+&nbsp;
+
+## 23. Pitivi ( https://www.pitivi.org/ )
+
+![Screenshot_20230228_094308](https://user-images.githubusercontent.com/113504774/221775106-fb3ff912-3e45-4b39-8d34-fc574f5c48dc.png)
+
+### Technologies Used
+c, python, gtk, gstreamer
+
+### Topics
+video processing, video editing, film-making
+
+&nbsp;
+
+## 24. Postman (  https://postman.com )
+
+
+![Screenshot_20230228_094308](https://user-images.githubusercontent.com/113504774/221775985-e3da2409-c26c-4d83-9449-42662df5d3a2.png)
+
+### Technologies Used
+json, api, openapi, JSON Schema
+
+### Topics
+testing, api, automation, documentation, data
+
+&nbsp;
+
+## 25. Qdrant ( https://qdrant.tech )
+
+![Screenshot_20230228_094357](https://user-images.githubusercontent.com/113504774/221776216-63ac4c1c-f3f5-4072-bf9d-16d2b5e18711.png)
+
+### Technologies Used
+python, javascript, rust
+
+### Topics
+databases, machine learning, Search Engines
+
+&nbsp;
+
+## 26. Replay.io ( https://replay.io )
+
+![Screenshot_20230228_094500](https://user-images.githubusercontent.com/113504774/221776762-a5b5c4f7-5701-4d70-8532-f7f14d8e537e.png)
+
+### Technologies Used
+javascript, c++, typescript
+
+### Topics
+debugging, devtools, Browsers
+
+&nbsp;
+
+## 27. Scalable Parallel Computing Laboratory ( https://spcl.inf.ethz.ch/ )
+
+![Screenshot_20230228_094545](https://user-images.githubusercontent.com/113504774/221777020-2d510683-6e8a-4670-a8d5-9005af6f5234.png)
+
+### Technologies Used
+python, c++, mpi, aws, Serverless
+
+### Topics
+programming languages, high-performance computing, parallel computing, Serverless Computing, faas
+
+&nbsp;
+
+## 28. Software and Computational Systems Lab at LMU Munich ( https://www.sosy-lab.org/ )
+
+![Screenshot_20230228_094723](https://user-images.githubusercontent.com/113504774/221777463-ea49e99b-3514-4168-88b6-23a40edc08e9.png)
+
+### Technologies Used
+python, java
+
+### Topics
+software verification, benchmarking, program analysis, formal methods, SAT & SMT solving
+
+&nbsp;
+
+## 29. SQLancer ( https://www.sqlancer.com )
+
+![Screenshot_20230228_094807](https://user-images.githubusercontent.com/113504774/221777864-32dabe91-6c15-44e1-ad86-8fb6f81d9594.png)
+
+### Technologies Used
+java, sql
+
+### Topics
+fuzzing, Automated Testing, Logic bugs, Database systems
+
+&nbsp;
+
+## 30. Stratosphere Laboratory, Czech Technical University in Prague   (https://www.stratosphereips.org/ )
+
+![Screenshot_20230228_094851](https://user-images.githubusercontent.com/113504774/221778203-57b559ac-023f-487f-af40-a423b13b7b3e.png)
+
+### Technologies Used
+python, javascript, redis, flask, docker
+
+### Topics
+machine learning, network security, Security Defense
+
+&nbsp;
