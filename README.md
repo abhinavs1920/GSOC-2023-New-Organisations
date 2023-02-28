@@ -1,7 +1,7 @@
 # GSOC-2023-New-Organisations
 It contains the list of Open Source organizations which were not the part of GSOC 2022
 
-**Currently under Work ( It will get completed by 2:00 PM 28 February 2023)**
+
 ## Contributing
 
 Pull requests are welcome. For significant changes, please open an issue first
