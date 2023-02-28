@@ -17,4 +17,5 @@ So before you start judging me, let me briefly introduce myself. I'm an Informat
 
 Though I admit that this repo is not yet complete and needs major refactoring which I'll be doing one day in the foreseeable future. Till then feel free to contribute and let the community grow. Constructive criticisms or code reviews of any kind are always welcome.
 
-If you have any doubts about the solutions, you can feel free to contact me at abhinavs1920bpl@gmail.com
+If you have any doubts 
+, you can feel free to contact me at abhinavs1920bpl@gmail.com
