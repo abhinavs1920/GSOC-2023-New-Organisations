@@ -13,8 +13,8 @@ Currently this repo has been managed by one person only so it may take time to a
 
 ## Who am I & why I'm doing this?
 
-So before you start judging me, let me briefly introduce myself. I'm an Information Technology student at the Indian Institute of Information Technology(IIIT), Gwalior, primarily interested in software development & open-source contributions.
+So before you start judging me, let me briefly introduce myself. I'm an Information Technology student at the Indian Institute of Information Technology(IIIT), Gwalior, primarily interested in application development & open-source contributions.
 
-Though I admit that this repo is not yet complete and needs major refactoring which I'll be doing one day in the foreseeable future. Till then feel free to contribute and let the community grow. Constructive criticisms or code reviews of any kind are very much welcome.
+Though I admit that this repo is not yet complete and needs major refactoring which I'll be doing one day in the foreseeable future. Till then feel free to contribute and let the community grow. Constructive criticisms or code reviews of any kind are always welcome.
 
 If you have any doubts about the solutions, you can feel free to contact me at abhinavs1920bpl@gmail.com
