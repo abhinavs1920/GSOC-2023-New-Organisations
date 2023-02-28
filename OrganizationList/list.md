@@ -10,6 +10,7 @@ python, javascript, c++, xml, bash
 ### Topics
 natural language processing, machine translation, language technology, less-resources languages
 
+&nbsp;
 
 
 ## 2. caMicroscope ( https://camicroscope.github.io )
@@ -22,6 +23,7 @@ python, javascript, mongodb, tensorflow
 ### Topics
 data visualization, cancer, medical research, AI Pathology
 
+&nbsp;
 
 
 ## 3. Carbon Language ( https://github.com/carbon-language/carbon-lang )
@@ -34,7 +36,7 @@ llvm, c++, clang, Bison
 ### Topics
 programming languages, c++
 
-
+&nbsp;
 
 ## 4. CloudCV ( https://cloudcv.org/ )
 
@@ -46,7 +48,7 @@ python, django, docker, angularjs, aws
 ### Topics
 machine learning, artificial intelligence, computer vision, deep learning, AI/ML
 
-
+&nbsp;
 
 ## 5. Cockpit Project ( https://cockpit-project.org/ )
 
@@ -58,7 +60,7 @@ python, javascript, react
 ### Topics
 operating systems, web, linux
 
-
+&nbsp;
 
 ## 6. Creative Commons ( https://opensource.creativecommons.org/ )
 
@@ -70,7 +72,7 @@ python, javascript, php, css, wordpress
 ### Topics
 web, nonprofit, copyleft, creative commons, legal
 
-
+&nbsp;
 
 ## 7. FLARE ( https://www.mandiant.com/ )
 
@@ -82,3 +84,150 @@ python, ida-pro, Ghidra
 ### Topics
 emulation, disassembly, decompilation, malware-analysis, reverse-engineering
 
+&nbsp;
+
+## 8. FreeCAD ( https://freecad.org )
+
+![Screenshot_20230228_092215](https://user-images.githubusercontent.com/113504774/221765810-dbfc8ff4-5774-4265-983b-7ebd890a6e0a.png)
+
+### Technologies Used
+python, c++, qt, OpenCASCADE, OpenInventor
+
+### Topics
+engineering, graphics, cad, architecture, CAM
+
+&nbsp;
+
+## 9. GCP Scanner (https://github.com/google/gcp_scanner/wiki/Google-Summer-of-Code-2023)
+
+![Screenshot_20230228_092326](https://user-images.githubusercontent.com/113504774/221766231-e36888fd-542f-4db0-be93-4fdbca845b7d.png)
+
+### Technologies Used
+python, google cloud
+
+### Topics
+security, automation, scanning, google cloud
+
+&nbsp;
+
+## 10. GNU Project ( https://www.gnu.org )
+
+![Screenshot_20230228_092534](https://user-images.githubusercontent.com/113504774/221768014-90a61045-1d24-4cad-b6d3-6520f9b1a343.png)
+
+
+### Technologies Used
+c, c++, gcc, autotools
+
+### Topics
+tools, toolchain, command line, OS, binary tools
+
+&nbsp;
+
+## 11. GnuTLS ( https://gitlab.com/gnutls/gnutls )
+
+![Screenshot_20230228_092631](https://user-images.githubusercontent.com/113504774/221768368-aadcc4f4-d3de-44a3-9ea5-2b10f3dc3f84.png)
+
+
+### Technologies Used
+c, Cryptography, TLS
+
+### Topics
+security, cryptography, TLS, DTLS
+
+&nbsp;
+
+## 12. gprMax ( https://www.gprmax.com )
+
+![Screenshot_20230228_092713](https://user-images.githubusercontent.com/113504774/221769572-b8975398-a9b1-4aef-8ef9-9ca43bc12c94.png)
+
+### Technologies Used
+python, cuda, openmp, mpi, opencl
+
+### Topics
+science, engineering, geophysics, electromagnetics, ground penetrating radar
+
+&nbsp;
+
+## 13. Internet Archive ( http://archive.org )
+
+![Screenshot_20230228_092944](https://user-images.githubusercontent.com/113504774/221769850-aa8c118d-dd8e-485c-9a54-97c77e4617ae.png)
+
+### Technologies Used
+python, javascript, go, elasticsearch, hadoop
+
+### Topics
+library, media, archiving
+
+&nbsp;
+
+## 14. Invesalius ( https://invesalius.github.io/ )
+
+![Screenshot_20230228_092119](https://user-images.githubusercontent.com/113504774/221759439-f5a39c2f-9e46-474e-a69e-9c24ea2b1c9f.png)
+
+### Technologies Used
+python, ida-pro, Ghidra
+
+### Topics
+emulation, disassembly, decompilation, malware-analysis, reverse-engineering
+
+&nbsp;
+
+
+## 15. Ivy (lets-unify.ai) ( https://lets-unify.ai )
+
+![Screenshot_20230228_093107](https://user-images.githubusercontent.com/113504774/221770433-e8ce9462-7e8f-4e33-b583-03c738b523b7.png)
+
+### Technologies Used
+python, cython, tensorflow, pytorch, Jax
+
+### Topics
+machine learning, artificial intelligence, computation graph, code conversion, unified API
+
+&nbsp;
+
+## 16. Jina AI ( https://jina.ai/ )
+
+![Screenshot_20230228_093139](https://user-images.githubusercontent.com/113504774/221771005-c8c2ae58-5620-49b7-844f-f07c701d1c35.png)
+
+### Technologies Used
+python, machine learning, microservices, data science, Multimodel AI
+
+### Topics
+cloud native, neural search, generative AI, Python MLOps Framework, Mulitmodel Data
+&nbsp;
+
+## 17. Keploy ( https://keploy.io )
+
+![Screenshot_20230228_093246](https://user-images.githubusercontent.com/113504774/221771476-b5cdbd32-1e84-459b-86ba-16450cedb31c.png)
+
+### Technologies Used
+java, react, golang, graphql, api testing
+
+### Topics
+API Testing, No code platform, Dev Tool, Functional Testing, Mock and Stubs Generation
+
+&nbsp;
+
+## 18. Kiwix ( https://www.kiwix.org )
+
+![Screenshot_20230228_093358](https://user-images.githubusercontent.com/113504774/221771679-9400a907-411b-4644-8573-8c5246b6c470.png)
+
+### Technologies Used
+python, perl, c++, nodejs, kotlin
+
+### Topics
+offline, browser, compression
+
+&nbsp;
+
+## 19. Kotlin Foundation ( https://kotlinfoundation.org/ )
+
+![Screenshot_20230228_093421](https://user-images.githubusercontent.com/113504774/221772112-2d279d68-c5e7-4efc-b7fd-ab27cc0274e0.png)
+
+### Technologies Used
+gradle, kotlin, jvm, Parsers & Compilers, Multiplatform
+
+### Topics
+compilers, programming languages, software development, libraries, Programming & Build Tools
+
+&nbsp;
